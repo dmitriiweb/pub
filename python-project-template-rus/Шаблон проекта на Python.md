@@ -165,6 +165,7 @@ warn_unreachable = true
 warn_unused_configs = true
 no_implicit_reexport = true
 ```
+![[mypy.png]]
 
 ## Документация
 ### mkdocs
